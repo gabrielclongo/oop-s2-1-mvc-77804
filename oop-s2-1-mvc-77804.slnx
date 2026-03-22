@@ -1,5 +1,4 @@
 <Solution>
   <Project Path="Library.Domain/Library.Domain.csproj" Id="1c7e2654-8c71-46f1-934a-eef15399729b" />
   <Project Path="Library.MVC/Library.MVC.csproj" />
-  <Project Path="Library.Tests/Library.Tests.csproj" Id="c1209dd6-2e3e-4ede-912c-c1221f93db28" />
 </Solution>
